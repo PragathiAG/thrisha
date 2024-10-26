@@ -1,0 +1,5 @@
+bash
+copy code
+git add nammi #stsge changes
+git coommit-m"bit"
+git push
